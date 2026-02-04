@@ -1,0 +1,19 @@
+# Logs
+logs/
+*.log
+swanlab_logs/
+
+# Model Checkpoints
+ckpts/
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
